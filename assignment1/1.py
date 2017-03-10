@@ -1,5 +1,5 @@
 #program to search common substring in A and B of length n
-
+#The file name is 1.py
 A=raw_input("Enter String A:")
 B=raw_input("Enter String B:")
 n=input("Enter n:")
